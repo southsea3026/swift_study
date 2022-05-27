@@ -1,3 +1,5 @@
 # swift_study
 
-stydt swift for iphone application
+study swift for iphone application
+
+스위프트 언제 써보지..
